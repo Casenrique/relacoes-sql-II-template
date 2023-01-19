@@ -1,4 +1,4 @@
-# RElações em SQL II - Template de Prática
+# Relações em SQL II - Template de Prática
 **Vamos utilizar esse repositório para as práticas da aula!**
 
 ## Instruções para baixar
